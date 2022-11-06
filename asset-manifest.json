@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/front-yoga/static/css/main.7c90efc5.chunk.css",
+    "main.js": "/front-yoga/static/js/main.7b4b85e1.chunk.js",
+    "main.js.map": "/front-yoga/static/js/main.7b4b85e1.chunk.js.map",
+    "runtime-main.js": "/front-yoga/static/js/runtime-main.b727384f.js",
+    "runtime-main.js.map": "/front-yoga/static/js/runtime-main.b727384f.js.map",
+    "static/css/2.100724b7.chunk.css": "/front-yoga/static/css/2.100724b7.chunk.css",
+    "static/js/2.fed4900d.chunk.js": "/front-yoga/static/js/2.fed4900d.chunk.js",
+    "static/js/2.fed4900d.chunk.js.map": "/front-yoga/static/js/2.fed4900d.chunk.js.map",
+    "index.html": "/front-yoga/index.html",
+    "static/css/2.100724b7.chunk.css.map": "/front-yoga/static/css/2.100724b7.chunk.css.map",
+    "static/css/main.7c90efc5.chunk.css.map": "/front-yoga/static/css/main.7c90efc5.chunk.css.map",
+    "static/js/2.fed4900d.chunk.js.LICENSE.txt": "/front-yoga/static/js/2.fed4900d.chunk.js.LICENSE.txt",
+    "static/media/1.4b66a806.svg": "/front-yoga/static/media/1.4b66a806.svg",
+    "static/media/across.ae469738.svg": "/front-yoga/static/media/across.ae469738.svg",
+    "static/media/bars.27df51a0.svg": "/front-yoga/static/media/bars.27df51a0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b727384f.js",
+    "static/css/2.100724b7.chunk.css",
+    "static/js/2.fed4900d.chunk.js",
+    "static/css/main.7c90efc5.chunk.css",
+    "static/js/main.7b4b85e1.chunk.js"
+  ]
+}
