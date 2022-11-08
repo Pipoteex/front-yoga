@@ -310,19 +310,21 @@ header .intro-text {
 /* Services Section */
 #services {
   padding: 100px 0;
-  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(246,217,150,1) 0%, rgba(242,232,211,1) 89%);
-  color: #fff;
+  background: rgb(245,217,154);
+background: linear-gradient(90deg, rgba(245,217,154,1) 0%, rgba(245,217,154,1) 49%, rgba(246,234,209,0.9920343137254902) 100%);
+  color: black;
 }
 #services .service-desc {
   margin: 10px 10px 20px;
 }
 #services h2 {
-  color: #fff;
+  color: black;
+  font-weight: bold;
 }
 #services .section-title h2::after {
   position: absolute;
   content: "";
-  background: rgba(255, 255, 255, 0.3);
+  background: rgba(43, 40, 40, 0.3);
   height: 4px;
   width: 60px;
   bottom: 0;
@@ -342,10 +344,10 @@ header .intro-text {
 #services h3 {
   font-weight: 500;
   padding: 5px 0;
-  color: #fff;
+  color: black;
 }
 #services p {
-  color: rgba(255, 255, 255, 0.75);
+  color: rgba(68, 58, 58, 0.75);
 }
 #services .service-desc {
   margin-bottom: 40px;
