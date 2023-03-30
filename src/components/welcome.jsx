@@ -95,7 +95,7 @@ export const Welcome = () => {
         <StyledMainWelcome className={flag ? "algo" : ""} id={"welcome"}>
             <img
                 src={imagesList[url].url}
-                alt="asas"
+                alt="instituto sol naciente"
                 onLoad={() => aparecerMensaje()}
             />
             <StyledWelcomeMessage

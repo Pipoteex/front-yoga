@@ -1,210 +1,215 @@
 {
-      "Header": {
-            "title": "Bienvenido",
-            "paragraph": "Un lugar para quedarse y nunca irse... Un lugar para quedarse y nunca irse...Un lugar para quedarse y nunca irse...Un lugar para quedarse y nunca irse...Un lugar para quedarse y nunca irse...Un lugar para quedarse y nunca irse...Un lugar para quedarse y nunca irse...Un lugar para quedarse y nunca irse...v"
-      },
-      "About": {
-            "paragraph": "Fundado en el año 2004 con la misión de difundir las enseñanzas y prácticas del Yoga a todos los estratos sociales, independiente de su edad, religión, economía o condición social. Trabajamos en comunidad, aprendizaje, y acompañamiento constante. Enfatizamos el desarrollo y crecimiento del ser, a nivel físico, mental, emocional y espiritual.",
-            "Why": [
-                  "Responsabilidad",
-                  "Profesionalismo",
-                  "Pasión",
-                  "Compromiso"
-            ],
-            "Why2": [
-                  "Humildad",
-                  "Equilibrio",
-                  "Acompañamiento",
-                  "Logro de objetivos"
-            ]
-      },
-      "News": [
-            {
-                  "title": "",
-                  "largeImage": "img/news/01.jpeg",
-                  "smallImage": "img/news/01.jpeg"
-            },
-            {
-                  "title": "",
-                  "largeImage": "img/news/02.jpeg",
-                  "smallImage": "img/news/02.jpeg"
-            },
-            {
-                  "title": "",
-                  "largeImage": "img/news/03.jpeg",
-                  "smallImage": "img/news/03.jpeg"
-            }
-      ],
-      "Gallery": [
-            {
-                  "title": "",
-                  "largeImage": "img/portfolio/01.jpeg",
-                  "smallImage": "img/portfolio/01.jpeg"
-            },
-            {
-                  "title": "",
-                  "largeImage": "img/portfolio/02.jpeg",
-                  "smallImage": "img/portfolio/02.jpeg"
-            },
-            {
-                  "title": "",
-                  "largeImage": "img/portfolio/03.jpeg",
-                  "smallImage": "img/portfolio/03.jpeg"
-            },
-            {
-                  "title": "",
-                  "largeImage": "img/portfolio/04.jpeg",
-                  "smallImage": "img/portfolio/04.jpeg"
-            },
-            {
-                  "title": "",
-                  "largeImage": "img/portfolio/05.jpeg",
-                  "smallImage": "img/portfolio/05.jpeg"
-            },
-            {
-                  "title": "",
-                  "largeImage": "img/portfolio/06.jpeg",
-                  "smallImage": "img/portfolio/06.jpeg"
-            },
-            {
-                  "title": "",
-                  "largeImage": "img/portfolio/07.jpeg",
-                  "smallImage": "img/portfolio/07.jpeg"
-            },
-            {
-                  "title": "",
-                  "largeImage": "img/portfolio/08.jpeg",
-                  "smallImage": "img/portfolio/08.jpeg"
-            },
-            {
-                  "title": "",
-                  "largeImage": "img/portfolio/09.jpeg",
-                  "smallImage": "img/portfolio/09.jpeg"
-            },
-            {
-                  "title": "",
-                  "largeImage": "img/portfolio/11.jpeg",
-                  "smallImage": "img/portfolio/11.jpeg"
-            },
+    "Header": {
+        "title": "Bienvenido",
+        "paragraph": "Un lugar para quedarse y nunca irse... Un lugar para quedarse y nunca irse...Un lugar para quedarse y nunca irse...Un lugar para quedarse y nunca irse...Un lugar para quedarse y nunca irse...Un lugar para quedarse y nunca irse...Un lugar para quedarse y nunca irse...Un lugar para quedarse y nunca irse...v"
+    },
+    "About": {
+        "paragraph": "Fundado en el año 2004 con la misión de difundir las enseñanzas y prácticas del Yoga a todos los estratos sociales, independiente de su edad, religión, economía o condición social. Trabajamos en comunidad, aprendizaje, y acompañamiento constante. Enfatizamos el desarrollo y crecimiento del ser, a nivel físico, mental, emocional y espiritual.",
+        "Why": ["Responsabilidad", "Profesionalismo", "Pasión", "Compromiso"],
+        "Why2": [
+            "Humildad",
+            "Equilibrio",
+            "Acompañamiento",
+            "Logro de objetivos"
+        ]
+    },
+    "News": [
+        {
+            "title": "Clase Yoga Fitness - Instituto Sol Naciente",
+            "largeImage": "img/news/ClaseYogaFitnes.jpeg",
+            "smallImage": "img/news/ClaseYogaFitnes.jpeg"
+        },
+        {
+            "title": "Reiki Inicial - Instituto Sol Naciente",
+            "largeImage": "img/news/ReikiInicial.jpeg",
+            "smallImage": "img/news/ReikiInicial.jpeg"
+        },
+        {
+            "title": "Yoga Deportivo Chicos Jovenes - Instituto Sol Naciente",
+            "largeImage": "img/news/YogaDeportivoChicosJovenes.jpeg",
+            "smallImage": "img/news/YogaDeportivoChicosJovenes.jpeg"
+        },
+        {
+            "title": "Torneo Internacional Yoga - Instituto Sol Naciente",
+            "largeImage": "img/news/TorneoInternacionalYoga.jpeg",
+            "smallImage": "img/news/TorneoInternacionalYoga.jpeg"
+        },
+        {
+            "title": "Profesorado De Yoga - Instituto Sol Naciente",
+            "largeImage": "img/news/ProfesoradoYoga.jpeg",
+            "smallImage": "img/news/ProfesoradoYoga.jpeg"
+        }
+    ],
+    "Gallery": [
+        {
+            "title": "",
+            "largeImage": "img/portfolio/01.jpeg",
+            "smallImage": "img/portfolio/01.jpeg"
+        },
+        {
+            "title": "",
+            "largeImage": "img/portfolio/02.jpeg",
+            "smallImage": "img/portfolio/02.jpeg"
+        },
+        {
+            "title": "",
+            "largeImage": "img/portfolio/03.jpeg",
+            "smallImage": "img/portfolio/03.jpeg"
+        },
+        {
+            "title": "",
+            "largeImage": "img/portfolio/04.jpeg",
+            "smallImage": "img/portfolio/04.jpeg"
+        },
+        {
+            "title": "",
+            "largeImage": "img/portfolio/05.jpeg",
+            "smallImage": "img/portfolio/05.jpeg"
+        },
+        {
+            "title": "",
+            "largeImage": "img/portfolio/06.jpeg",
+            "smallImage": "img/portfolio/06.jpeg"
+        },
+        {
+            "title": "",
+            "largeImage": "img/portfolio/07.jpeg",
+            "smallImage": "img/portfolio/07.jpeg"
+        },
+        {
+            "title": "",
+            "largeImage": "img/portfolio/08.jpeg",
+            "smallImage": "img/portfolio/08.jpeg"
+        },
+        {
+            "title": "",
+            "largeImage": "img/portfolio/09.jpeg",
+            "smallImage": "img/portfolio/09.jpeg"
+        },
+        {
+            "title": "",
+            "largeImage": "img/portfolio/11.jpeg",
+            "smallImage": "img/portfolio/11.jpeg"
+        },
 
-            {
-                  "title": "",
-                  "largeImage": "img/portfolio/12.jpeg",
-                  "smallImage": "img/portfolio/12.jpeg"
-            },
+        {
+            "title": "",
+            "largeImage": "img/portfolio/12.jpeg",
+            "smallImage": "img/portfolio/12.jpeg"
+        },
 
-            {
-                  "title": "",
-                  "largeImage": "img/portfolio/13.jpeg",
-                  "smallImage": "img/portfolio/13.jpeg"
-            }
-      ],
-      "Services": [
-            {
-                  "icon": "img/iconos/1.svg",
-                  "name": "Yoga deportivo",
-                  "text": "La mejor practica para atletas. Se basa en dominar la flexibilidad, el equilibrio y la fuerza, más la correcta respiración, concentración, ritmo y enganches"
-            },
-            {
-                  "icon": "img/iconos/2.svg",
-                  "name": "Yoga terapéutico",
-                  "text": "Una práctica que se ajusta a tus dolencias, lesiones y patologías. Se adaptan las practicas a las particularidades morfológicas, patológicas y/o psicoemocionales de cada practicante."
-            },
-            {
-                  "icon": "img/iconos/3.svg",
-                  "name": "Yoga adultos",
-                  "text": "No permitas que la edad te limite, la constancia potenciara tu energía y bienestar. Su práctica es recomendada para todas las edades, tan solo las adaptamos a la fuerza y movilidad de cada uno."
-            },
-            {
-                  "icon": "img/iconos/4.svg",
-                  "name": "Hatha yoga",
-                  "text": "La mejor opción para tener una práctica más pausada y equilibrar cuerpo y mente. Combina el ejercicio físico, con técnicas de respiración y meditación. "
-            },
-            {
-                  "icon": "img/iconos/5.svg",
-                  "name": "Yoga niños",
-                  "text": "La unión del juego y la relajación para niños. Se fomentan los buenos hábitos a la hora de sentarse, estudiar, caminar, etc. Por lo que, por medio de su práctica, favorecerá al niño en su rutina diaria."
-            },
-            {
-                  "icon": "img/iconos/7.svg",
-                  "name": "Yoga fitnes",
-                  "text": "Conjuga fuerza, equilibrio y resistencia. Recomendable para aquellos que deseen mayor intensidad. Combina secuencias de asanas con ejercicios tradicionales para ganar flexibilidad, resistencia y equilibrio, fortalecer la musculatura y tonificar."
-            },
-            {
-                  "icon": "img/iconos/6.svg",
-                  "name": "Profesorado",
-                  "text": "¿Qué es un Profesor de Yoga? Se trata de una profesión dedicada a ayudar a mejorar la salud física y mental de las personas a través de la realización de movimientos y posiciones simples y la aplicación de técnicas de respiración, relajación y meditación."
-            },
-            {
-                  "icon": "img/iconos/10.svg",
-                  "name": "Instructorado",
-                  "text": "Esta formación está dirigida a la capacitación futuros instructores, así como también responde a la necesidad de cada persona ."
-            },
-            {
-                  "icon": "img/iconos/12.svg",
-                  "name": "Talleres",
-                  "text": "Un taller es también una sesión de entrenamiento o guía de distintos temas que se puede abordar. Se enfatiza en la solución de problemas."
-            }
-      ],
-      "Testimonials": [
-            {
-                  "img": "img/testimonials/01.jpeg",
-                  "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-                  "name": "John Doe"
-            },
-            {
-                  "img": "img/testimonials/02.jpeg",
-                  "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-                  "name": "Johnathan Doe"
-            },
-            {
-                  "img": "img/testimonials/03.jpeg",
-                  "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-                  "name": "John Doe"
-            },
-            {
-                  "img": "img/testimonials/04.jpg",
-                  "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-                  "name": "Johnathan Doe"
-            },
-            {
-                  "img": "img/testimonials/05.jpg",
-                  "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-                  "name": "John Doe"
-            },
-            {
-                  "img": "img/testimonials/06.jpg",
-                  "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-                  "name": "Johnathan Doe"
-            }
-      ],
-      "Team": [
-            {
-                  "img": "img/team/01.jpeg",
-                  "name": "Agustina Ferrero",
-                  "job": "Profesora de Hatha Yoga y yoga terapéutico. Instructora de Tai Chi"
-            },
-            {
-                  "img": "img/team/02.jpeg",
-                  "name": "Florencia Zappelli ",
-                  "job": "Instructora de Yoga deportivo"
-            },
-            {
-                  "img": "img/team/03.jpeg",
-                  "name": "Ivana Elizabeth Moriconi",
-                  "job": "Instructora de yoga para adultos y terapéutico"
-            },
-            {
-                  "img": "img/team/04.jpeg",
-                  "name": "Lorena",
-                  "job": "Profesora de Yoga deportivo. Yoga terapéutico"
-            }
-      ],
-      "Contact": {
-            "address": "Posadas, Misiones ",
-            "phone": "543764204573",
-            "email": "lorenayoga8@gmail.com",
-            "facebook": "https://www.facebook.com/isolnaciente/",
-            "instagram": "https://www.instagram.com/instituto_sol_naciente/?hl=es&__coig_restricted=1"
-      }
+        {
+            "title": "",
+            "largeImage": "img/portfolio/13.jpeg",
+            "smallImage": "img/portfolio/13.jpeg"
+        }
+    ],
+    "Services": [
+        {
+            "icon": "img/iconos/1.svg",
+            "name": "Yoga deportivo",
+            "text": "La mejor practica para atletas. Se basa en dominar la flexibilidad, el equilibrio y la fuerza, más la correcta respiración, concentración, ritmo y enganches"
+        },
+        {
+            "icon": "img/iconos/2.svg",
+            "name": "Yoga terapéutico",
+            "text": "Una práctica que se ajusta a tus dolencias, lesiones y patologías. Se adaptan las practicas a las particularidades morfológicas, patológicas y/o psicoemocionales de cada practicante."
+        },
+        {
+            "icon": "img/iconos/3.svg",
+            "name": "Yoga adultos",
+            "text": "No permitas que la edad te limite, la constancia potenciara tu energía y bienestar. Su práctica es recomendada para todas las edades, tan solo las adaptamos a la fuerza y movilidad de cada uno."
+        },
+        {
+            "icon": "img/iconos/4.svg",
+            "name": "Hatha yoga",
+            "text": "La mejor opción para tener una práctica más pausada y equilibrar cuerpo y mente. Combina el ejercicio físico, con técnicas de respiración y meditación. "
+        },
+        {
+            "icon": "img/iconos/5.svg",
+            "name": "Yoga niños",
+            "text": "La unión del juego y la relajación para niños. Se fomentan los buenos hábitos a la hora de sentarse, estudiar, caminar, etc. Por lo que, por medio de su práctica, favorecerá al niño en su rutina diaria."
+        },
+        {
+            "icon": "img/iconos/7.svg",
+            "name": "Yoga fitnes",
+            "text": "Conjuga fuerza, equilibrio y resistencia. Recomendable para aquellos que deseen mayor intensidad. Combina secuencias de asanas con ejercicios tradicionales para ganar flexibilidad, resistencia y equilibrio, fortalecer la musculatura y tonificar."
+        },
+        {
+            "icon": "img/iconos/6.svg",
+            "name": "Profesorado",
+            "text": "¿Qué es un Profesor de Yoga? Se trata de una profesión dedicada a ayudar a mejorar la salud física y mental de las personas a través de la realización de movimientos y posiciones simples y la aplicación de técnicas de respiración, relajación y meditación."
+        },
+        {
+            "icon": "img/iconos/10.svg",
+            "name": "Instructorado",
+            "text": "Esta formación está dirigida a la capacitación futuros instructores, así como también responde a la necesidad de cada persona ."
+        },
+        {
+            "icon": "img/iconos/12.svg",
+            "name": "Talleres",
+            "text": "Un taller es también una sesión de entrenamiento o guía de distintos temas que se puede abordar. Se enfatiza en la solución de problemas."
+        }
+    ],
+    "Testimonials": [
+        {
+            "img": "img/testimonials/01.jpeg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpeg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpeg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [
+        {
+            "img": "img/team/01.jpeg",
+            "name": "Agustina Ferrero",
+            "job": "Profesora de Hatha Yoga y yoga terapéutico. Instructora de Tai Chi"
+        },
+        {
+            "img": "img/team/02.jpeg",
+            "name": "Florencia Zappelli ",
+            "job": "Instructora de Yoga deportivo"
+        },
+        {
+            "img": "img/team/03.jpeg",
+            "name": "Ivana Elizabeth Moriconi",
+            "job": "Instructora de yoga para adultos y terapéutico"
+        },
+        {
+            "img": "img/team/04.jpeg",
+            "name": "Lorena",
+            "job": "Profesora de Yoga deportivo. Yoga terapéutico"
+        }
+    ],
+    "Contact": {
+        "address": "Posadas, Misiones ",
+        "phone": "543764204573",
+        "email": "lorenayoga8@gmail.com",
+        "facebook": "https://www.facebook.com/isolnaciente/",
+        "instagram": "https://www.instagram.com/instituto_sol_naciente/?hl=es&__coig_restricted=1"
+    }
 }

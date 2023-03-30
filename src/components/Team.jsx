@@ -19,7 +19,7 @@ export const Team = (props) => {
                                       {" "}
                                       <img
                                           src={d.img}
-                                          alt="..."
+                                          alt="Profesora Instituto Sol Naciente"
                                           className="team-img"
                                           style={{ maxHeight: "300px" }}
                                       />

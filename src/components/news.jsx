@@ -1,4 +1,12 @@
-import { Image } from "./image";
+import styled from "styled-components";
+
+const StyledBoxImage = styled.div`
+    display: grid;
+    grid-template-columns: auto auto auto;
+    @media (max-width: 750px) {
+        grid-template-columns: auto;
+    }
+`;
 
 export const News = (props) => {
     return (
@@ -10,17 +18,13 @@ export const News = (props) => {
             <div className="container">
                 <div className="section-title" style={{ margin: "30px 0px" }}>
                     <h2>Novedades 2023</h2>
-                    {/* <p>Algunas imagenes de nuestro dia a dia.</p> */}
                 </div>
                 <div className="row">
-                    <div className="portfolio-items">
+                    <StyledBoxImage>
                         {props.data
                             ? props.data.map((d, i) => (
-                                  <div
-                                      key={`${d.title}-${i}`}
-                                      className="col-sm-6 col-md-4 col-lg-4"
-                                  >
-                                      <Image
+                                  <div key={`${d.title}-${i}`}>
+                                      <ImageV2
                                           title={d.title}
                                           largeImage={d.largeImage}
                                           smallImage={d.smallImage}
@@ -28,9 +32,19 @@ export const News = (props) => {
                                   </div>
                               ))
                             : "Loading..."}
-                    </div>
+                    </StyledBoxImage>
                 </div>
             </div>
+        </div>
+    );
+};
+
+const ImageV2 = ({ title, largeImage, smallImage }) => {
+    return (
+        <div>
+            <a href={largeImage} title={title}>
+                <img src={smallImage} className="img-responsive" alt={title} />{" "}
+            </a>
         </div>
     );
 };
